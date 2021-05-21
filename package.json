@@ -10,7 +10,7 @@
     "agenda": "^3.0.0",
     "async": "^3.1.0",
     "aws-sdk": "^2.447.0",
-    "azure-storage": "^2.10.3",
+    "azure-storage": "^2.10.4",
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "browser-sync": "^2.26.7",
