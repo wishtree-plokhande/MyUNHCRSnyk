@@ -48,7 +48,7 @@
     "node-uuid": "^1.4.8",
     "nodemailer": "^6.2.1",
     "p3p": "0.0.2",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "prettier": "^2.0.5",
     "rc": "^1.2.7",
