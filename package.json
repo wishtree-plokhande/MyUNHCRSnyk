@@ -42,7 +42,7 @@
     "lodash": "^4.17.15",
     "lusca": "^1.6.1",
     "mmmagic": "^0.5.3",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "mongodb": "^3.2.7",
     "no-captcha": "^1.1.1",
     "node-uuid": "^1.4.8",
