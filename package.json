@@ -13,7 +13,7 @@
     "azure-storage": "^2.10.3",
     "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
-    "browser-sync": "^2.26.7",
+    "browser-sync": "^2.27.11",
     "connect-flash": "^0.1.1",
     "connect-redis": "^4.0.3",
     "consolidate": "^0.15.1",
