@@ -11,7 +11,7 @@
     "async": "^3.1.0",
     "aws-sdk": "^2.447.0",
     "azure-storage": "^2.10.3",
-    "bcrypt": "^5.0.0",
+    "bcrypt": "^5.0.1",
     "bcryptjs": "^2.4.3",
     "browser-sync": "^2.26.7",
     "connect-flash": "^0.1.1",
